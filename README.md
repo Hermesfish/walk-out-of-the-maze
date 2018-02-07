@@ -1,5 +1,7 @@
-##I will make some changes on it.
-```
+# I will make some changes on it.
+
+$x^{y^z}=(1+e^x)^{-2xy^w}$
+```java
 package paradise;
 
 import java.awt.*;
