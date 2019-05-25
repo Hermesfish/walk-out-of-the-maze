@@ -13,12 +13,12 @@
 迷宫圈子里流传了这样一种说法，说只要你一直靠右（左）走，你就能走出迷宫。但不适合回形迷宫，以及更加复杂的迷宫。
 当时连算法都不懂，直接暴力求解，用了40多个if判断句。  
 OS：后面才知道这样的走法叫做DFS，深度优先遍历。  
-<img src="emoji.jpg" align="middle"/>
+<img src="emoji.jpg" align="left"/>
 ### 实现
 见```maze文件夹```，下载zip解压以后导入```eclipse```的```workspace```中，比如我导入的路径是```C:\Users\mm\eclipse-workspace```。  
+![](tree.png)  
+在eclipse中的树形图，Members7.java是最后的运行版本。
 
-在eclipse中的树形图
-![](tree.png)
 ### 缺点
 由于后来更新了笔记本系统，好多文件都找不到了。而且现在不在用java，背景图片也不见了。
 所以不能直接fork，只能算是留给自己的小小纪念吧。
