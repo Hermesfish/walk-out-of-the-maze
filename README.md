@@ -23,6 +23,7 @@ OS：后面才知道这样的走法叫做DFS，深度优先遍历。
 见```maze```文件夹，下载zip解压以后导入```eclipse```的```workspace```中，比如我导入的路径是```C:\Users\mm\eclipse-workspace```。  
 ![](tree.png)  
 在eclipse中的树形图，```Members7.java```是最后的运行版本。
+小更新：```Members8.java```是DFS实现的运行版本。
 
 ### 缺点
 由于后来更新了笔记本系统，好多文件都找不到了。而且现在不在用java，背景图片也不见了。
